@@ -22,7 +22,7 @@ Explorer URL - `https://holesky.etherscan.io/`
 ![Img1](https://github.com/user-attachments/assets/4e323dd3-cdee-44be-b62c-f18253da6446)
 
 ## Go To Github CodeSpace : https://github.com/codespaces
-- Select Blank templates
+- Use Blank templates
 
 ## Install Rust - Past Command
 ```bash
