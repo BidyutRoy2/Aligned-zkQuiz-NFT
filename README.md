@@ -1,5 +1,10 @@
 <h1 align=center>Aligned zkQuiz NFT</h1>
 
+## Claim Ethereum Holesky FAUCET (Use New or Burner Wallet)
+- https://www.alchemy.com/faucets/ethereum-holesky
+- https://cloud.google.com/application/web3/faucet/ethereum/holesky
+- https://holesky-faucet.pk910.de
+
 ![Img1](https://github.com/user-attachments/assets/4e323dd3-cdee-44be-b62c-f18253da6446)
 
 ## Install Rust
@@ -17,7 +22,7 @@ source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/
 sudo apt update && sudo apt install pkg-config libssl-dev
 ```
 
-## Import a burner wallet that have Holesky ETH
+## Import a New/Burner wallet Private Key
 ```bash
 [ -d ~/.aligned_keystore ] && rm -rf ~/.aligned_keystore && echo "Deleted existing directory ~/.aligned_keystore." ; mkdir -p ~/.aligned_keystore && cast wallet import ~/.aligned_keystore/keystore0 --interactive
 ```
