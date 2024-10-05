@@ -57,3 +57,10 @@ make answer_quiz KEYSTORE_PATH=~/.aligned_keystore/keystore0
 - In the last stage it will ask some questions, here is the answers
 
 `Y` , `C` , `C` , `A` , `Y`
+
+Delete
+```
+rm -rf aligned_layer
+```
+
+
