@@ -1,5 +1,17 @@
 <h1 align=center>Aligned zkQuiz NFT</h1>
 
+## Add Holesky Testnet Metamask RPC 
+
+Network Name - `Holesky Test Network`
+
+Network URL - `https://rpc.holesky.ethpandaops.io/`
+
+Chain ID - `17000`
+
+Symbol - `ETH`
+
+Explorer URL - `https://holesky.etherscan.io/`
+
 ## Claim Ethereum Holesky FAUCET (Use New or Burner Wallet)
 - https://www.alchemy.com/faucets/ethereum-holesky
 - https://cloud.google.com/application/web3/faucet/ethereum/holesky
