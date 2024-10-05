@@ -12,6 +12,8 @@ Symbol - `ETH`
 
 Explorer URL - `https://holesky.etherscan.io/`
 
+## Or Add RPC From Explore : https://holesky.etherscan.io
+
 ## Claim Ethereum Holesky FAUCET (Use New or Burner Wallet)
 - https://www.alchemy.com/faucets/ethereum-holesky
 - https://cloud.google.com/application/web3/faucet/ethereum/holesky
